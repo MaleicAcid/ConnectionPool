@@ -1,2 +1,2 @@
 # ConnectionPool
-a mysql connectionool use c++11
+a mysql connection pool use c++11
